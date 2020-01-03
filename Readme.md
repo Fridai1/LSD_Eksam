@@ -22,3 +22,5 @@
     * Docker would also allow us to deal with a potential load issue by using their docker swarm technology (insert more info here.)
 * CD
     * Being apple to quickly deploy a fix to an error without going through the deployment phase manually.
+* Task Estimation and better project management
+   * In the projects current form, the backend had initially very little to do, so we didnt find it neccesarry to put the few tasks we had on a board, instead we devided them up among ourselfes and started working on them. Ideally it would have been a larger project with more communcation between the 2 teams and as such there would be more tasks and we would need task estimationa and a board
