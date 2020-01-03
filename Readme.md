@@ -21,6 +21,6 @@
     * We could improve on our current platform by splitting it up into microservices and have it run in a containerized system. This would help us make it modulized and there by easier to maintain and scale if need be, at the cost of a slight increased development time and a varied deployment cost (show them the Paas and IaaS pictures).
     * Docker would also allow us to deal with a potential load issue by using their docker swarm technology (insert more info here.)
 * CD
-    * Being apple to quickly deploy a fix to an error without going through the deployment phase manually.
+    * Being able to quickly deploy a fix to an error without going through the deployment phase manually.
 * Task Estimation and better project management
    * In the projects current form, the backend had initially very little to do, so we didnt find it neccesarry to put the few tasks we had on a board, instead we devided them up among ourselfes and started working on them. Ideally it would have been a larger project with more communcation between the 2 teams and as such there would be more tasks and we would need task estimationa and a board
